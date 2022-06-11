@@ -1,0 +1,80 @@
+body{
+    background-color: #1e1e1e;
+}
+
+.TitleSection{
+    width: 90%;
+    height: 40%;
+    margin: auto;
+    background-color: #2c293a;
+    /* border: 1px solid yellow; */
+}
+
+h1 {
+    color: blue;
+    margin-left: 20px;;
+}
+
+.TitleSimb{
+    color: #faf8f2;
+}
+
+.MainTitle{
+    color: #a7d8e5;   
+}
+
+.ProfilePhoto{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border: 1px solid red;
+    border-radius: 45px;
+    margin: 0 0 10px 15px;
+}
+
+.AboutMe{
+    width: 78%;
+    height: 150px;
+    margin: 0 10px 5px 0px;
+    float: right;
+    text-align: justify;
+    /* line-height: 15px;
+    border: 1px solid red; */
+}
+
+.TextTitle{
+    color: #61d481;
+    margin-left: 10px;
+}
+
+.AboutMe span{
+    color: #faf8f2; ;
+}
+
+.PersonalData{
+    width: 100%;
+    margin: 0 0 0 0;
+    line-height: 2px;
+    /* border: 1px solid green; */
+    display: flex;
+}
+
+.Personaltext{
+    color: #faf8f2;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.Links{
+    width: 600px;
+    height: 45px;
+    margin: auto;
+    text-align: center;
+    /* border: 1px solid red; */
+}
+
+.Links img{
+    margin: 0 auto;
+    margin-right: 15px ;
+    width: 50px;
+}
